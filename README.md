@@ -3,7 +3,7 @@ Block-Auth Auth SDK is a SASS service blockchain based authentication service. I
 
 DEVELOPMENT process is private yet, but will open source eventually
 
-You can learn how to use here: [https://docs.block-auth.io](https://docs.block-auth.io/quickstart/)https://docs.block-auth.io/quickstart/
+You can learn how to use here: [https://docs.block-auth.io/quickstart](https://docs.block-auth.io/quickstart/)
 
 
 # JS client
