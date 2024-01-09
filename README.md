@@ -8,14 +8,14 @@ You can learn how to use here: [https://docs.block-auth.io/quickstart](https://d
 
 # JS client
 
-```
+```bash
 # Install the Protocol JavaScript SDK
 npm install blockauth-sdk --save
 ```
 
 ## Example of usage
 
-```
+```js
 import { BlockAuthProvider } from 'blockauth-sdk'
 
 const provider = new BlockAuthProvider({
